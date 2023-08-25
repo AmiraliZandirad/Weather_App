@@ -10,6 +10,9 @@ a graphicy weather app from python
 pip install requests
 ```
 ```bash
+pip install tk
+```
+```bash
 pip install pytz
 ```
 ```bash
