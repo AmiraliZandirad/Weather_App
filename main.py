@@ -1,4 +1,4 @@
-## make by AmiraliZandi
+# ❄️αмί𝐑𝓪Ł𝔦 ＺαŇᗪί❄️
 
 import tkinter as tk
 from tkinter import messagebox
